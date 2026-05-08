@@ -18,7 +18,7 @@ Python 3.8+ version, Tkinter and a linux installation note
 6 - run the program or reset the data
 
 # TEAM MEMBERS
- روان أحمد عبدالمجيد - 20240360
+ - روان أحمد عبدالمجيد - 20240360
  - آية سيد عبد الحميد - 20240185
  - رانيا عمرو مكرم - 20240344 
  - مريم طارق عبدالعظيم - 20240937 
