@@ -10,7 +10,7 @@ Python 3.8+ version, Tkinter and a linux installation note
 "python -m src.gui.main_ui" without the equation marks inside the terminal
 
 # BUILD/ RUN STEPS
-1 - VS code
+1 - install VS code
 2 - open folder select SRC or the whole project
 3 - run the gui file
 4 - write in terminal -> python -m src.gui.main_ui
